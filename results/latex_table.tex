@@ -1,0 +1,20 @@
+
+\begin{table}[H]
+\centering
+\caption{Light Transmission Performance Metrics for Different Perforation Patterns}
+\label{tab:light_metrics}
+\begin{tabular}{@{}l@{\hspace{1.5em}}c@{\hspace{1.5em}}c@{\hspace{1.5em}}c@{\hspace{1.5em}}c@{}}
+\toprule
+\textbf{Pattern} & \textbf{CV} $\downarrow$ & \textbf{Glare} $\downarrow$ & \textbf{Moiré} $\downarrow$ & \textbf{Coverage} $\uparrow$ \\
+\midrule
+Prime-based  & 0.479 & 3.64 & 0.436 & 33.1% \\
+Regular Grid & 0.433 & 3.70 & 1.000 & 31.1% \\
+Random       & 0.525 & 3.83 & 0.027 & 25.4% \\
+Fibonacci    & 0.456 & 3.45 & 0.045 & 26.6% \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item CV = Coefficient of Variation. $\downarrow$ = lower is better; $\uparrow$ = higher is better.
+\end{tablenotes}
+\end{table}
