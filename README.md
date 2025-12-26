@@ -132,14 +132,7 @@ prime-lattice-light-simulation/
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{aksoy2025prime,
-  title={Spatializing the Integer: A Generative Lattice Model for Prime Number 
-         Visualization with Applications in Architectural Light Modulation},
-  author={Aksoy, Talha},
-  journal={Architectural Science Review},
-  year={2025},
-  publisher={Taylor \& Francis}
-}
+@
 ```
 
 ## License
