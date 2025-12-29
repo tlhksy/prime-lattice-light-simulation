@@ -1,0 +1,7 @@
+# Prime Lattice Light Simulation - Requirements
+# Python 3.8+ required
+
+numpy>=1.20.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+Pillow>=8.0.0  # For PNG fixing utility
